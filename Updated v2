@@ -8,21 +8,11 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * Update attributes of an object
 * Destroy an object
 
-## Table of Content
-* [Environment](#environment)
-* [Installation](#installation)
-* [File Descriptions](#file-descriptions)
-* [Usage](#usage)
-* [Examples of use](#examples-of-use)
-* [Bugs](#bugs)
-* [Authors](#authors)
-* [License](#license)
-
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
+* Clone this repository: `git clone "https://github.com/Manyala1/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
@@ -150,10 +140,6 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## Bugs
-No known bugs at this time. 
-
-
 # 0x05. AirBnB clone - RESTful API
 `Python` `Back-end` `API` `Webserver` `Flask`
 
@@ -165,26 +151,6 @@ No known bugs at this time.
 |will be released at Oct 21, 2022 12:00 PM|
 |An auto review will be launched at the deadline|
 
-## Concepts
-For this project, we expect you to look at these concepts:
-
-- [REST API](https://alx-intranet.hbtn.io/concepts/45)
-- [AirBnB clone](https://alx-intranet.hbtn.io/concepts/74)
-
-## Resources
-**Read or watch:**
-
-- **REST API concept page**
-- [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)
-- [Designing a RESTful API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
-- [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-- [Flask cheatsheet](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/301/flask_cheatsheet.pdf)
-- [What are Flask Blueprints, exactly?](https://stackoverflow.com/questions/24420857/what-are-flask-blueprints-exactly)
-- [Flask](https://palletsprojects.com/p/flask/)
-- [Modular Applications with Blueprints](https://flask.palletsprojects.com/en/1.1.x/blueprints/)
-- [Flask tests](https://flask.palletsprojects.com/en/1.1.x/testing/)
-- [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/)
-- [AirBnB clone - RESTful API](https://www.youtube.com/watch?v=LrQhULlFJdU&feature=youtu.be)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -202,26 +168,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - Which is the HTTP method to delete resource
 - How to request REST API
 
-## Copyright - Plagiarism
-- You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-- You will not be able to meet the objectives of this or any following project by copying and pasting - someone else’s work.
-- You are not allowed to publish any content of this project.
-- Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-## Requirements
-### Python Scripts
-- Allowed editors: vi, vim, emacs
-- All your files will be interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3)
-- All your files should end with a new line
-- The first line of all your files should be exactly #!/usr/bin/python3
-- A README.md file, at the root of the folder of the project, is mandatory
-- Your code should use the PEP 8 style (version 1.7)
-- All your files must be executable
-- The length of your files will be tested using wc
-- All your modules should have documentation (python3 -c 'print(__import__("my_module").__doc__)')
-- All your classes should have documentation (python3 -c 'print(__import__("my_module").MyClass.__doc__)')
-- All your functions (inside and outside a class) should have documentation (python3 -c 'print(__import__=-("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
-- A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, - class or method (the length of it will be verified)
 
 ## Python Unit Tests
 - Allowed editors: vi, vim, emacs
@@ -238,17 +185,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ## GitHub
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
 
-## Install Flask
-```
-$ pip3 install Flask
-```
-
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-
-## Contributors
-Olumide Micheal - [Github](https://github.com/codewithmide) / [Twitter](https://twitter.com/OlumideMicheal_)
-
-## License
-Public Domain. No copy write protection. 
+## manyala Paul <paulmithama60@gmail.com>
+## Rafki Dhaibi
